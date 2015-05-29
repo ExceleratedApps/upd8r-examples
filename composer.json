@@ -1,0 +1,20 @@
+{
+    "name": "upd8r/register",
+    "description": "Example code for registering a user and sharing a photo",
+    "require": {
+        "guzzle/guzzle": "3.9.3"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Chris Mccabe",
+            "email": "chris.mccabe@exceleratedapps.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-0": {
+            "Upd8r": "src/"
+        }
+    }
+}
