@@ -14,7 +14,7 @@ use \Upd8r\Request;
  * * Triggering an image post for a user .
  *
  *
- * This complete example shows a user being rewarded for participating in a game.
+ * This complete example shows a user being created, a photo being uploaded and a post being created with that photo
  *
  */
 
